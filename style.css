@@ -1,0 +1,135 @@
+*{
+    padding: 0% !important;
+    margin: 0% !important;
+}
+
+.l-img1{
+    width: 2em;
+    width: 2em;
+    vertical-align: middle;
+    
+    
+}
+.l-img2{
+    width: 2em;
+    width: 2em;
+    vertical-align: middle;
+    
+    
+}
+.img-adjf{
+    width: 100vw ;
+    height: 100vh !important ;
+    object-fit: cover;
+    background-size: contain;
+}
+.col-clr1{
+    background-color: black !important;
+    color: white !important;
+    border-width: 0px;
+}
+.col-clr1:hover{
+    background-color: #b70826 !important;
+}
+.col-clr2{
+    background-color: black !important;
+    color: white !important;
+    border-width: 0px;
+}
+.col-clr2:hover{
+    background-color: #b70826 !important;
+}
+.col-clr3{
+    background-color: black !important;
+    color: white !important;
+    border-width: 0px;
+}
+.col-clr3:hover{
+    background-color: #b70826 !important;
+}
+.col-clr4{
+    background-color: black !important;
+    color: white !important;
+    border-width: 0px;
+}
+.col-clr4:hover{
+    background-color: #b70826 !important;
+}
+.col-clr5{
+    background-color: black !important;
+    color: white !important;
+    border-width: 0px;
+}
+.col-clr5:hover{
+    background-color: #b70826 !important;
+}
+.carousel-indicators .active{
+    background-color:#b70826 !important ;
+}
+.ft-size{
+    font-size: 1rem;
+}
+.fclr{
+    color: black !important;
+    font-weight: 500;
+}
+.col-clr6{
+    background-color: black !important;
+    color: white !important;
+    border-width: 0px;
+}
+.col-clr6:hover{
+    background-color: #b70826 !important;
+}
+.f-ctrl{
+    font-size: 1rem;
+}
+.text-z{
+    font-weight: 100 !important;
+    font-size: 1.5em ;
+}
+.img-adjf1{
+    width: 100vw ;
+    height: auto;
+    object-fit: cover;
+    background-size: contain;
+}
+.bt-mid{
+    background-color: rgb(255, 255, 255) !important;
+    color: rgb(0, 0, 0) !important;
+}
+.bt-mid:hover{
+    background-color: #b70826 !important;
+    color: white !important;
+}
+.text-z1{
+    font-weight: 100 !important;
+    font-size: 1em ;
+}
+.col-12 .img-adjf2{
+    width: 100vw ;
+    height: 100vh;
+    object-fit: cover;
+    background-size: contain;
+}
+.adj-foot{
+    text-decoration: none !important;
+    color: black;
+    font-size: 1.2em !important;
+}
+.adj-foot:hover{
+    color: #b70826;
+}
+.foot-icon{
+    font-size: 2.5em;
+    color: black;
+}
+.foot-icon:hover{
+    color: #b70826;
+}
+.foot-icon1{
+    font-size: 1em;
+}
+.foot-icon1:hover{
+    color: #b70826 !important;
+}
